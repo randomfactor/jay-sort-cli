@@ -1,0 +1,12 @@
+Take "Desire Paths" from shelf 1 position 1. Replace "Circling" on shelf 1 position 4 with "Desire Paths".
+Now holding "Circling". Replace "War Stories" on shelf 1 position 3 with "Circling".
+Now holding "War Stories". Replace "Knowledge Scars" on shelf 2 position 3 with "War Stories".
+Now holding "Knowledge Scars". Replace "Casualties" on shelf 1 position 6 with "Knowledge Scars".
+Now holding "Casualties". Replace "Of My Own Space and Time I Am Queen" on shelf 1 position 2 with "Casualties".
+Now holding "Of My Own Space and Time I Am Queen". Replace "Blossoms" on shelf 2 position 1 with "Of My Own Space and Time I Am Queen".
+Replace the now empty spot on shelf 1 position 1 with "Blossoms".
+
+Take "The Fires I Started" from shelf 1 position 5. Replace "Wildness & Artifice" on shelf 2 position 2 with "The Fires I Started".
+Now holding "Wildness & Artifice". Replace "Infinitesimal" on shelf 2 position 4 with "Wildness & Artifice".
+Replace the now empty spot on shelf 1 position 5 with "Infinitesimal".
+
